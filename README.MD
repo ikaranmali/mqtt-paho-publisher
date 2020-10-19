@@ -1,8 +1,9 @@
-# Usage:
->> python3 publisher.py --conf config.json
+# Usage
+
+> python3 publisher.py --conf config.json
 
 # Basic configuration
-Add your configurations in config file for broker
+
 {
   "mqtt_conn_info":
   {
