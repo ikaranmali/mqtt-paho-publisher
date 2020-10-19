@@ -1,0 +1,1 @@
+>> usage: python3 publisher.py --conf config.json
